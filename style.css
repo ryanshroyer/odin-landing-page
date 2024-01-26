@@ -49,5 +49,8 @@ ul {
 .footer {
     background: #1F2937;
     color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
 }
 
