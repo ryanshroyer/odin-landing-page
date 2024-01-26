@@ -1,4 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 * {
     font-family: roboto; sans-serif;
+}
+
+.header {
+    background: #1F2937;
+}
+
+.hero-block {
+    background: #1F2937;
+}
+
+.image-block {
+    background: white;
+}
+
+.quote-block {
+    background: #E5E7EB;
+}
+
+.call-to-action {
+    background: white;
+}
+
+.footer {
+    background: #1F2937;
+    color: #E5E7EB;
 }
 
