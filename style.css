@@ -53,6 +53,32 @@ ul {
 
 .call-to-action {
     background: white;
+    display: flex;
+    justify-content: center;
+}
+
+.modal {
+        background: #3882F6;
+        display: flex;
+        align-items: center;
+        padding: 25px 100px;
+        border-radius: 8px;
+        box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.2);
+        color: white;
+
+
+        /* width: 480px;
+        box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.2);
+        gap: 16px;
+        padding: 16px; */
+}
+
+.modal-header {
+
+}
+
+.modal-button {
+
 }
 
 .footer {
