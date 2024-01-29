@@ -40,6 +40,15 @@ ul {
 
 .quote-block {
     background: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.quote-source {
+    display: block;
+    margin-left: auto;
 }
 
 .call-to-action {
