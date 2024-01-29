@@ -32,6 +32,13 @@ ul {
 
 .hero-block {
     background: #1F2937;
+    color: white;
+    display: flex;
+}
+
+.hero-left {
+    display: flex;
+    flex-direction: column;
 }
 
 .image-block {
